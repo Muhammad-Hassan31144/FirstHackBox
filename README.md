@@ -52,7 +52,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/FirstHackBox.git
+git clone https://github.com/Muhammad-Hassan31144/FirstHackBox.git
 cd FirstHackBox
 
 # Install dependencies
@@ -63,11 +63,10 @@ npm run dev
 # Open http://localhost:5173
 ```
 
-### Building for Production
+### Ready to use site
 
 ```bash
-npm run build
-# The 'dist' folder is now ready for deployment (e.g., GitHub Pages)
+> [Jump right into it](https://Muhammad-Hassan31144.github.io/FirstHackBox)
 ```
 
 ---
